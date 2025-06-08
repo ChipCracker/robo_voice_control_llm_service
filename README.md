@@ -1,0 +1,1 @@
+Just a small http service for serving qwen3 finetuned for [robo_voice_control](https://github.com/ChipCracker/robo-voice-control) instructions using python3.10 (Not usable using the ros2 humble distribution which is the last supported one on the jetson nano).
